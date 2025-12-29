@@ -7,7 +7,7 @@ restaurant-order-system/
 # restaurant-order-system :
 Simple Python console-based restaurant order system
 
-# Restaurant Order System in Python language ;
+# Restaurant Order System in Python language
 
 This is a simple console-based restaurant order system built using Python. 
 It allows users to select items from a menu, add multiple items, and calculates the total bill.
