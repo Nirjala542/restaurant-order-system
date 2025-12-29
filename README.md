@@ -32,4 +32,4 @@ It allows users to select items from a menu, add multiple items, and calculates 
 
 ## Author:
 Nirjala Sharma
-Total amount to pay: Rs80
+
