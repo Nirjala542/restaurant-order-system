@@ -26,14 +26,7 @@ It allows users to select items from a menu, add multiple items, and calculates 
    python order.py
 
 ## Example Output:
-Hlo, please enter the item you want to order: pizza
-Your item pizza is confirmed
-Do you want to add another item? (yes/no): yes
-Hello, please enter the item you want to order: tea
-Your item tea is confirmed
-Do you want to add another item? (yes/no): no
-Thank you for visiting 😊
-total amount of item to pay:80
+
 <img width="432" height="350" alt="output" src="https://github.com/user-attachments/assets/e6dcf711-d494-4c5f-9e3b-6f5881fd8af6" />
 
 
